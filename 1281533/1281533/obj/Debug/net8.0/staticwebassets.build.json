@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "bYj8MEGvYQbqCxA93k0xXCIZYsEaf8MrjIHtxv2S8Ls=",
+  "Source": "1281533",
+  "BasePath": "_content/1281533",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "1281533\\wwwroot",
+      "Source": "1281533",
+      "ContentRoot": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\",
+      "BasePath": "_content/1281533",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\Pictures\\1.jpeg",
+      "SourceId": "1281533",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\",
+      "BasePath": "_content/1281533",
+      "RelativePath": "Pictures/1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\Pictures\\2.jpeg",
+      "SourceId": "1281533",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\",
+      "BasePath": "_content/1281533",
+      "RelativePath": "Pictures/2.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\Pictures\\3.jpeg",
+      "SourceId": "1281533",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\wwwroot\\",
+      "BasePath": "_content/1281533",
+      "RelativePath": "Pictures/3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\3.jpeg"
+    }
+  ]
+}

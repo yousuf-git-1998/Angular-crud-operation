@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|c:\\users\\lab104-09\\desktop\\yousuf_1281533\\1281533\\1281533\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|solutionrelative:1281533\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|c:\\users\\lab104-09\\desktop\\yousuf_1281533\\1281533\\1281533\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|solutionrelative:1281533\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|c:\\users\\lab104-09\\desktop\\yousuf_1281533\\1281533\\1281533\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|solutionrelative:1281533\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|c:\\users\\lab104-09\\desktop\\yousuf_1281533\\1281533\\1281533\\viewmodels\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|solutionrelative:1281533\\viewmodels\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|c:\\users\\lab104-09\\desktop\\yousuf_1281533\\1281533\\1281533\\1281533.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|solutionrelative:1281533\\1281533.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|c:\\users\\lab104-09\\desktop\\yousuf_1281533\\1281533\\1281533\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE7E833-1108-4D2F-8C80-FB8D0EDD6F7B}|1281533\\1281533.csproj|solutionrelative:1281533\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\appsettings.json",
+              "RelativeDocumentMoniker": "1281533\\appsettings.json",
+              "ToolTip": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\appsettings.json",
+              "RelativeToolTip": "1281533\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T11:54:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageUploadResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\ViewModels\\ImageUploadResponse.cs",
+              "RelativeDocumentMoniker": "1281533\\ViewModels\\ImageUploadResponse.cs",
+              "ToolTip": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\ViewModels\\ImageUploadResponse.cs",
+              "RelativeToolTip": "1281533\\ViewModels\\ImageUploadResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:07:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "1281533\\Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "1281533\\Controllers\\DevicesController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAIYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:05:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\Program.cs",
+              "RelativeDocumentMoniker": "1281533\\Program.cs",
+              "ToolTip": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\Program.cs",
+              "RelativeToolTip": "1281533\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:02:47.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "1281533\\Models\\DbModel.cs",
+              "ToolTip": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\Models\\DbModel.cs",
+              "RelativeToolTip": "1281533\\Models\\DbModel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvw8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:58:38.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1281533.csproj",
+              "DocumentMoniker": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\1281533.csproj",
+              "RelativeDocumentMoniker": "1281533\\1281533.csproj",
+              "ToolTip": "C:\\Users\\LAB104-09\\Desktop\\Yousuf_1281533\\1281533\\1281533\\1281533.csproj",
+              "RelativeToolTip": "1281533\\1281533.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T11:54:02.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
